@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements MainActivity1{
 
 
     private WebView webView;
-    private String url = "https://nesez.com/quicksns-ko.php";                                   //your url 
+    private String url = "https://yourdomian.nesez.com";                                   //your url 
 
 
 
